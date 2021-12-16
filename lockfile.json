@@ -89,6 +89,9 @@
   "gomod": {
     "revision": "e91c7a67a0ee362a45397dbfe6b68a125a6f5971"
   },
+  "gowork": {
+    "revision": "aafab008b4c855f20871cb978e41cf3b94466c70"
+  },
   "graphql": {
     "revision": "5e66e961eee421786bdda8495ed1db045e06b5fe"
   },
